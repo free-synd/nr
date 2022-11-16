@@ -1,0 +1,22 @@
+:root {
+	color: rgb(230, 230, 230);
+	background-color: black;
+	font-family: urw;
+}
+
+@font-face {
+	font-family: urw;
+	src: url("fonts/urwbookman-light.otf");
+}
+
+a {
+	color: #fad126;
+}
+
+.curs:hover {
+	cursor: crosshair;
+}
+
+.linc:hover {
+	cursor: pointer;
+}
